@@ -111,6 +111,8 @@ header .logo {
 		padding: 8px 44px;
 		border: 1px solid black;
 		display: inline-block;
+		font-size: 17px;
+
 	}
 .mission .header-img {
 	display: inline-block;
